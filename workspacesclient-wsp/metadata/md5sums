@@ -124,9 +124,9 @@ b220704b5fe6b31e514bbe060aad99dc  usr/lib/x86_64-linux-gnu/workspacesclient/dcv/
 fcd690b1f7b2c921900520f53b7404ea  usr/lib/x86_64-linux-gnu/workspacesclient/dcv/sasl2/libplain.so
 d3d632201dbf9321ee5f54a3a84c0df4  usr/lib/x86_64-linux-gnu/workspacesclient/dcv/sasl2/libsasldb.so
 98163c6e0390a55c3c501d036414eb83  usr/lib/x86_64-linux-gnu/workspacesclient/dcv/sasl2/libscram.so
-1790afd153fbf935009227d4b714999c  usr/bin/workspacesclient
+fa051f064b36adb8ce3ce0e164f96b2f  usr/bin/workspacesclient
 b52ae519c9646410e2fd9f34aa6bf133  usr/lib/x86_64-linux-gnu/workspacesclient/dcv/gdk-pixbuf-query-loaders
 4a5aae66ddbe72c63b24c2dac55e6825  usr/lib/x86_64-linux-gnu/workspacesclient/dcv/gst-plugin-scanner
-0e57479f5c5b9c83a59b2aebc1d2df44  usr/lib/x86_64-linux-gnu/workspacesclient/dcv/dcvclientbin
+f27534baaf755517a89a02a35a900725  usr/lib/x86_64-linux-gnu/workspacesclient/dcv/dcvclientbin
 e655c3e5d8ffe342dcf61f9b5c429399  usr/lib/x86_64-linux-gnu/workspacesclient/dcv/dcvclient
 a9827048fbc00fc63ce145af4aff9d2b  usr/lib/x86_64-linux-gnu/workspacesclient/dcv/gtk-query-immodules-3.0

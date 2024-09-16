@@ -1,10 +1,10 @@
 Package: workspacesclient
-Version: 2024.4.5074
+Version: 2024.5.5119
 Architecture: amd64
 Section: misc
 Priority: optional
 Maintainer: Amazon WorkSpaces
-Installed-Size: 306237
-Depends: libwebkit2gtk-4.1-dev, libvdpau1, libva-drm2, sssd, libsoup-3.0-0, libpam-sss, desktop-file-utils, libglib2.0-bin, opensc-pkcs11, gir1.2-javascriptcoregtk-4.1, libva-x11-2, pcscd, libgtk2.0-bin
+Installed-Size: 306265
+Depends: desktop-file-utils, sssd, libglib2.0-bin, libgtk2.0-bin, libsoup-3.0-0, libwebkit2gtk-4.1-dev, libpam-sss, gir1.2-javascriptcoregtk-4.1, opensc-pkcs11, libva-drm2, libva-x11-2, pcscd, libvdpau1
 Description: [generated from Rust crate WorkSpacesClient]
 
