@@ -4,7 +4,7 @@
 
 BuildArch:     x86_64
 Name:          workspacesclient-wsp
-Version:       2024.4.5074
+Version:       2024.7.5140
 Release:       1
 License:       Freely redistributable without restriction
 Group:         Converted/misc
@@ -82,6 +82,9 @@ fi
 %license %{_datadir}/doc/%{app_name}/copyright
 
 %changelog
+* Mon Oct 14 2024 Claer 2024.7.5140-1
+- update to 2024.7 version
+
 * Tue Aug 20 2024 Claer 2024.4.5074-1
 - update to 2024.4 version
 
